@@ -88,6 +88,8 @@
 //     localStorage.setItem('todoList', todoListJSON);
 // }
 
+//OR
+
 let todoRootE1 = document.getElementById('todoRoot');
 let userinputE1 = document.getElementById('user-input');
 
